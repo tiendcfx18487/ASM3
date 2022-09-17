@@ -30,7 +30,7 @@
     }*/
     /*Chứng chỉ - Giải thưởng*/
     #certificate img{
-        width: 400px;
+        width: 390px;
         height: 200px;
     }
     .cer-content {
@@ -55,7 +55,7 @@
 
     /**/
     .container-footer{
-        font-size: 16px;
+        font-size: 15px;
         padding-left: 0;
         margin-top: 1%;
     }
